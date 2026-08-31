@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: #fafaf9;
+  color: #18181b;
+}
+
+textarea,
+input {
+  font-family: inherit;
+}
